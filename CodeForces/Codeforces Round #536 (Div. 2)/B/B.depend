@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1549044607 source:d:\works\codeforcescompetitions\codeforces round #536 (div. 2)\b\solb.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1549133061 source:d:\works\codeforcescompetitions\codeforces round #536 (div. 2)\c\solc.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+
